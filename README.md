@@ -1,1 +1,1 @@
-# brsamor
+# Projetos desenvolvidos para BR Samor.
