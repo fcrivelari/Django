@@ -1,1 +1,3 @@
-# Projetos desenvolvidos para BR Samor.
+# Projeto Django.
+
+
